@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dino
+- 👋 Hi, I’m Dino, a Software Engineer based in Sarajevo (Bosnia)
 
 <!---
 dinogit/dinogit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
